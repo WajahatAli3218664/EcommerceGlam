@@ -21,7 +21,7 @@ header{
 }
 
 .navbar__link:hover{
-  color: darkslategray;
+  color: rgb(10, 25, 47);
   transition: all 0.4s;
 }
 
