@@ -20,9 +20,9 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           {/* Brand Info */}
           <div className="">
-            <h3 className="text-2xl font-bold mb-4">Glam Glow</h3>
+            <h3 className="text-2xl font-bold mb-4">Gleamify </h3>
             <p className="text-sm">
-              Welcome to <b>Glam Glow!</b> Discover our exclusive range of
+              Welcome to <b> Gleamify </b> Discover our exclusive range of
               stylish clothing and accessories for both men and women. Shop now
               to elevate your look with our premium products.
             </p>
@@ -157,7 +157,7 @@ const Footer: React.FC = () => {
         {/* Bottom Section */}
         <div className="border-t border-gray-700 pt-4 text-center">
           <p className="text-sm">
-            &copy; {new Date().getFullYear()} Glam Glow All Rights Reserved.
+            &copy; {new Date().getFullYear()} Gleamify  All Rights Reserved.
           </p>
         </div>
       </div>

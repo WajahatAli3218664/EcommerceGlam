@@ -57,7 +57,7 @@ const Contact = () => {
             We're here to help!
           </h2>
           <p className="mt-4 leading-relaxed">
-            Welcome to <b>Glam Glow!</b> Our team is passionate about delivering
+            Welcome to <b>Gleamify !</b> Our team is passionate about delivering
             exceptional customer experiences. Whether you have a question about
             our products, need styling advice, or want to share your feedback,
             we're here to listen. Please don't hesitate to contact us – we're

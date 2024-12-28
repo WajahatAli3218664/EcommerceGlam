@@ -27,7 +27,7 @@ const FeedbackSection: React.FC = () => {
       name: "John Doe",
       img: "/people1.jpg",
       message:
-        "The price range of Glam Glow products is quite reasonable. I appreciate the combination of quality and affordability!",
+        "The price range of Gleamify  products is quite reasonable. I appreciate the combination of quality and affordability!",
       rating: 5,
       designation: "Marketing Manager",
     },
@@ -36,7 +36,7 @@ const FeedbackSection: React.FC = () => {
       name: "Sarah Johnson",
       img: "/people2.jpg",
       message:
-        "I ordered some accessories, and the quality is superb. I will definitely recommend Glam Glow!",
+        "I ordered some accessories, and the quality is superb. I will definitely recommend Gleamify !",
       rating: 5,
       designation: "Software Engineer",
     },
@@ -54,7 +54,7 @@ const FeedbackSection: React.FC = () => {
       name: "Emily White",
       img: "/people4.jpg",
       message:
-        "I love the designs of Glam Glow outfits. There always something new and stylish in every collection!",
+        "I love the designs of Gleamify  outfits. There always something new and stylish in every collection!",
       rating: 5,
       designation: "Project Manager",
     },
@@ -72,7 +72,7 @@ const FeedbackSection: React.FC = () => {
       name: "Jessica Brown",
       img: "/people6.jpg",
       message:
-        "The quality of Glam Glow products is excellent! I always shop here and have never been disappointed.",
+        "The quality of Gleamify  products is excellent! I always shop here and have never been disappointed.",
       rating: 5,
       designation: "Freelance Developer",
     },

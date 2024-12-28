@@ -62,8 +62,8 @@ const Header: React.FC = () => {
         {/* Logo (Mobile-left alignment) */}
         <Link href="/" className="flex justify-center items-center lg:mr-auto sm:ml-0">
           <Image
-            src="/glam glow.jpg"
-            alt="Glam Glow"
+            src="/glam.png"
+            alt="Gleamify "
             width={120}
             height={120}
             className="object-cover rounded-full"

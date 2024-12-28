@@ -52,7 +52,7 @@ const About = () => {
             Company Overview
           </h2>
           <p className="mt-4 leading-relaxed">
-            At <b>Glam Glow,</b> we are dedicated to providing stylish and
+            At <b> Gleamify ,</b> we are dedicated to providing stylish and
             affordable fashion for everyone. Founded in 2024, we have
             transformed the fashion landscape by offering quality products that
             empower personal expression.
@@ -71,7 +71,7 @@ const About = () => {
             Mission Statement
           </h2>
           <p className="mt-4 leading-relaxed">
-            At <b>Glam Glow</b>, we aim to redefine fashion by offering a
+            At <b>Gleamify </b>, we aim to redefine fashion by offering a
             diverse selection of trendy clothing and accessories that cater to
             all styles and occasions. We believe that everyone deserves to feel
             confident and beautiful in what they wear.
@@ -115,7 +115,7 @@ const About = () => {
               className="w-6 h-6 text-teal-900 mr-2"
               aria-hidden="true"
             />
-            Meet the Glam Glow Team!
+            Meet the Gleamify  Team!
           </h2>
           <p className="mt-4 leading-relaxed">
             Our dedicated team is passionate about fashion and committed to
@@ -133,7 +133,7 @@ const About = () => {
             What We Offer
           </h2>
           <p className="mt-4 leading-relaxed">
-            <b>Glam Glow</b> provides a wide range of products for both men and
+            <b>Gleamify </b> provides a wide range of products for both men and
             women, including:
           </p>
           <ul className="list-disc list-inside mt-4">
@@ -175,7 +175,7 @@ const About = () => {
             Sustainability Practices
           </h2>
           <p className="mt-4 leading-relaxed">
-            At <b>Glam Glow</b>, we are deeply committed to environmental
+            At <b>Gleamify </b>, we are deeply committed to environmental
             responsibility. Our eco-friendly initiatives include sourcing
             sustainable materials, reducing waste in our production processes,
             and actively participating in community-driven sustainability

@@ -205,7 +205,7 @@ const Sidebar = () => {
           <div className="relative w-24 h-24 rounded-full overflow-hidden shadow-md border border-gray-300">
             <Image
               src="/author.jpg" // Replace with the actual image path
-              alt="Areeba Hammad, the lead of Glam Glow Fashion"
+              alt="Farah, the lead of Gleamify  Fashion"
               layout="fill"
               objectFit="cover"
               priority
@@ -215,7 +215,7 @@ const Sidebar = () => {
           {/* Author Bio */}
           <div>
             <p className="text-gray-700 text-base leading-relaxed">
-              <b>Areeba Hammad</b> is the lead at <b>Glam Glow</b> Fashion,
+              <b> Farah </b> is the lead at <b>Gleamify </b> Fashion,
               specializing in digital strategies, fashion marketing, and design.
               With a passion for technology and fashion trends, she empowers
               others by sharing her knowledge and expertise.
