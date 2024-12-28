@@ -18,12 +18,12 @@ const HeroSection = () => {
     }
 
     const imageSlider: string[] = [
-      "/img1.png",
-      "/img2.png",
-      "/img3.png",
-      "/img4.png",
-      "/img5.png",
-      "/img6.png",
+      "/roman1.png",
+      "/roman2.png",
+      "/roman3.png",
+      "/roman4.png",
+      "/roman5.png",
+      "/roman6.png",
     ]
 
 return (
